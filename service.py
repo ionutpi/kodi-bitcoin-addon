@@ -4,8 +4,6 @@ import xbmcgui
 import random
 import requests
 import json
-#addon       = xbmcaddon.Addon()
-#addonname   = addon.getAddonInfo('name')
 
 if __name__ == '__main__':
     win = xbmcgui.Window(10000)
